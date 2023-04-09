@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "DSfQINvXIEcQRhvP3pTpVx6EGTb/cY1ngNWTT6ZXVdE=",
+  "Source": "DotnetRoleBasedAuthJwt",
+  "BasePath": "_content/DotnetRoleBasedAuthJwt",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
